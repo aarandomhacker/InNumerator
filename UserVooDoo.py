@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from __future__ import division
 from http.cookiejar import CookieJar
 from urllib.request import Request, build_opener, HTTPCookieProcessor, HTTPHandler, HTTPSHandler, urlopen
