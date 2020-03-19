@@ -1,10 +1,9 @@
 # UserVooDoo
-Company Linkedin user enumeration and cleanup. Includes functionality for OWA password spraying.
+
+Scrapes employees for a company from linkedin, cleans up and mangles the names into email addresses with the specified domain. Includes OWA password spraying functionality for the created user list.
 
 An issue has been found when running from MacOS where python certificates are not trusted. To fix this, navigate to the python install folder and run the "Install Certificates.command" file.
 (Defaults to Applications -> Python3.# -> Install Certificates.command)
-
-Scrapes employees for a company from linkedin, cleans up and mangles the names into email addresses with the specified domain. Includes OWA password spraying functionality for the created user list.
 
 # Options
 | Option | Required | Description |
