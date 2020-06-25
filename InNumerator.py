@@ -22,7 +22,7 @@ import threading
 import pyfiglet
 
 prebanner = pyfiglet.figlet_format("InNumerator")
-banner = prebanner + "\t Written by Waffles (@Waffl3sss)\n"
+banner = prebanner + "\t @Waffl3sss\t@MattBurch\n"
 print(banner)
 
 # Parse user arguments
