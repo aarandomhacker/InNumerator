@@ -1,9 +1,9 @@
 # InNumerator
 
-Scrapes employees for a company from LinkedIn.
-The script can mangle the output to what fits your needs. Currently there are 3 options, ***First.Last*, *F.Last*, and *First.L***.
-The script cleans up the output, removing special characters and other things that people put in their LinkedIn.
-Output can be in 2 formats, just the username or with a domain name, creating a list of email addresses.
+Scrapes employees for a company from LinkedIn.  
+The script can mangle the output to what fits your needs. Currently there are 3 options, ***First.Last*, *F.Last*, and *First.L***.  
+The script cleans up the output, removing special characters and other things that people put in their LinkedIn.  
+Output can be in 2 formats, just the username or with a domain name, creating a list of email addresses.  
 
 # Options
 | Option | Required | Description |
