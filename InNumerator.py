@@ -2,24 +2,9 @@ from __future__ import division
 from http.cookiejar import CookieJar
 from urllib.request import Request, build_opener, HTTPCookieProcessor, HTTPHandler, HTTPSHandler, urlopen
 from urllib.parse import urlencode
-
-import time
-import json
-import math
-import ssl
-import argparse
-import re
-import sys
-import os
-import codecs
-import hashlib
-import hmac
-import base64
-import urllib
-import requests
 from argparse import RawTextHelpFormatter
-import threading
-import pyfiglet
+
+import time, json, math, ssl, argparse, re, sys, os, codecs, hashlib, hmac, base64, urllib, requests, pyfiglet
 
 prebanner = pyfiglet.figlet_format("InNumerator")
 banner = prebanner + "\t #Waffl3ss\t#MattBurch\n\n"
